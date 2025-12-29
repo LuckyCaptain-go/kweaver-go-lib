@@ -5,7 +5,7 @@ go 1.24.0
 require (
 	github.com/AISHU-Technology/TelemetrySDK-Go/exporter/v2 v2.10.0
 	github.com/AISHU-Technology/TelemetrySDK-Go/span/v2 v2.10.0
-	github.com/LuckyCaptain-go/proton-rds-sdk-go v1.4.0
+	github.com/LuckyCaptain-go/proton-rds-sdk-go v1.0.4
 	github.com/BurntSushi/toml v1.6.0
 	github.com/IBM/sarama v1.46.3
 	github.com/Masterminds/squirrel v1.5.4
