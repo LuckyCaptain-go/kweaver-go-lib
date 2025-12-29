@@ -1,4 +1,4 @@
-module github.com/AISHU-Technology/kweaver-go-lib
+module github.com/LuckyCaptain-go/kweaver-go-lib
 
 go 1.24.0
 
